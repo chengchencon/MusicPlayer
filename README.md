@@ -20,7 +20,7 @@
 
 - **Backend**: PHP
 - **Frontend**: HTML, CSS, JavaScript
-- **Database**: [Details not specified; assumed to be MySQL or similar]
+- **Database**: MySQL
 - **Deployment**: Hosted on AWS EC2 instance
 
 ---
