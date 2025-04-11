@@ -12,10 +12,6 @@
 
 *Homepage showcasing music browsing interface*
 
-![Playlist Management Screenshot](./assets/screenshots/playlist.png)
-
-*User interface for creating and managing playlists*
-
 ---
 
 ## ✨ Key Features
