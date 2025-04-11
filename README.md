@@ -6,6 +6,18 @@
 
 ---
 
+## 📸 Screenshots
+
+![Homepage Screenshot](./assets/screenshots/homepage.png)
+
+*Homepage showcasing music browsing interface*
+
+![Playlist Management Screenshot](./assets/screenshots/playlist.png)
+
+*User interface for creating and managing playlists*
+
+---
+
 ## ✨ Key Features
 
 - **User Registration & Authentication**: Secure user sign-up and login system to personalize the music experience.
