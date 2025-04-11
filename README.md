@@ -8,7 +8,7 @@
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](./assets/screenshots/homepage.png)
+![Homepage Screenshot](./assets/images/phpscreen.jpg)
 
 *Homepage showcasing music browsing interface*
 
